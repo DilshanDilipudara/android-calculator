@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="text_hint_first_number">Enter your first number here</string>
+    <string name="btn1Text">+</string>
+    <string name="btn2Text">-</string>
+    <string name="btn3Text">*</string>
+    <string name="btn4Text">/</string>
+    <string name="btnLastText">=</string>
+</resources>
