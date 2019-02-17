@@ -13,7 +13,8 @@ public class Calculator extends AppCompatActivity {
      Button  btnPl,btnSu,btnMu,btnDi,btnEq;
      double x  = 0.0;
      double y = 1.0;
-    int clicked_btn = 0; //for find the click the button
+     int clicked_btn = 0; //for find the click the button
+     // hello, world
      @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
